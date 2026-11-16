@@ -229,7 +229,7 @@ importers:
         version: link:../../packages/utils
       '@next/bundle-analyzer':
         specifier: ^16.4.3
-        version: 16.4.5
+        version: 16.4.6
       '@sentry/nextjs':
         specifier: ^11.10.0
         version: 11.11.0(next@16.4.5(@babel/core@8.1.0)(@opentelemetry/api@1.9.1)(@types/node@26.6.6)(react-dom@19.3.1(react@19.3.1))(react@19.3.1))(react@19.3.1)(vite@8.3.5(@types/node@26.6.6)(esbuild@0.28.2)(jiti@2.7.0)(sugarss@5.0.1(postcss@8.5.32))(terser@5.49.0)(tsx@4.23.1)(yaml@2.9.1))(webpack@5.109.2(clean-css@5.3.3)(csso@5.0.5)(esbuild@0.28.2)(html-minifier-terser@6.1.0)(lightningcss@1.33.0)(postcss@8.5.32)(uglify-js@3.19.3))
@@ -357,7 +357,7 @@ importers:
     devDependencies:
       '@next/bundle-analyzer':
         specifier: ^16.4.3
-        version: 16.4.5
+        version: 16.4.6
       '@types/node':
         specifier: ^26.6.6
         version: 26.6.6
@@ -2650,8 +2650,8 @@ packages:
       '@emnapi/core': ^2.0.0-alpha.3
       '@emnapi/runtime': ^2.0.0-alpha.3
 
-  '@next/bundle-analyzer@16.4.5':
-    resolution: {integrity: sha512-kIlb+9t1i/Zg7yuRXN7I9nhEb92UGbnMfIzpZPps7YoCgmneCMpmN6zG6mduUluhI+y00MGLytkDsccVCujrGw==}
+  '@next/bundle-analyzer@16.4.6':
+    resolution: {integrity: sha512-Evp2ETZoDcqpg5LZPeJNG51o1Bc5vH+LPSP+BmSkdjeykMCh1fMB/shs3bJVbTOxYp7wC3Ed3HLo0jgX1BdxNA==}
 
   '@next/env@16.4.5':
     resolution: {integrity: sha512-JwSPwpdkZL5VMl2jA/q+JI8MZdweAL3xmw5/tb9y/TLtmS0YXZnmYDzSihwk8xTj1OL+WM53gTqaj96yuLp6Xw==}
@@ -15251,7 +15251,7 @@ snapshots:
       '@tybys/wasm-util': 0.10.3
     optional: true
 
-  '@next/bundle-analyzer@16.4.5':
+  '@next/bundle-analyzer@16.4.6':
     dependencies:
       webpack-bundle-analyzer: 4.10.1
     transitivePeerDependencies:
