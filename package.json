@@ -34,11 +34,11 @@
     "dotenv-cli": "^11.1.0",
     "husky": "^9.1.7",
     "lint-staged": "^17.6.0",
-    "oxfmt": "^0.75.0",
+    "oxfmt": "^0.79.0",
     "oxlint": "^1.90.0",
     "release-please": "^17.11.2",
     "turbo": "^2.11.10",
-    "ultracite": "8.1.1"
+    "ultracite": "8.2.0"
   },
   "commitlint": {
     "extends": [
@@ -79,7 +79,7 @@
   "engines": {
     "node": ">=24"
   },
-  "packageManager": "pnpm@12.17.0",
+  "packageManager": "pnpm@12.22.0",
   "prisma": {
     "schema": "packages/db/prisma/schema.prisma"
   }
